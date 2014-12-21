@@ -1,5 +1,8 @@
 Prime-Recursion
 ===============
+
+Author: Alexander Miller
+Date: 10/13/2014
  
 This program uses recursion within multi-threading
 to generate the prime factors of any number up to 
@@ -9,5 +12,6 @@ variable in the C++ language.
 
 fastest computation with four 18-digit numbers: 0.01
 
-Author: Alexander Miller
-Date: 10/13/2014
+The idea was to create a prime number object which would 
+hold both the original number and a vector of all the prime
+factors. 
