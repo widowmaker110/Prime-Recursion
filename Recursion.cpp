@@ -1,21 +1,4 @@
 /*
-* This program uses recursion within multi-threading
-* to generate the prime factorization of any number up to 
-* the max number allowed by long long. On 10/13/2014 the max number
-* is 9223372036854775807 in a long long variable in the C++ language.
-* 
-* By implmenting the developer mode to 'true'
-* I computed all of the data below: 
-*
-* 781859189285709554;
-* 782050905290201849;
-* 349956174030208996;
-* 869723665327180202;
-* 
-* in about 0.052 seconds on my laptop:
-*
-* HP pavilion DV7-6b32us 8GB RAM, i7 qaud core processor
-*
 * Author: Alexander Miller
 * Date: 10/13/2014
 */
